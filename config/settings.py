@@ -129,3 +129,7 @@ STATIC_URL = "/static/"
 
 # 프로젝트에 따라서 장고에서 제공하는 user 모델이 맞지 않을 수 있기에 커스텀 해주는 설정
 AUTH_USER_MODEL = "users.User"
+
+MEDIA_ROOT = os.path.join(BASE_DIR, "uploads")
+
+MEDIA_URL = "/media/"
