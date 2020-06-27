@@ -139,3 +139,4 @@ cython_debug/
 
 #photo
 uploads/
+node_modules/
