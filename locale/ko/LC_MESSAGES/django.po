@@ -20,11 +20,11 @@ msgstr ""
 
 #: .\templates\base.html:24
 msgid "Search By City"
-msgstr ""
+msgstr "도시 검색"
 
 #: .\templates\partials\footer.html:4
 msgid "airbnb Clone Coding."
-msgstr ""
+msgstr "에어비앤비 클론 코딩"
 
 #: .\templates\partials\footer.html:6
 msgid "All rights reserved"
